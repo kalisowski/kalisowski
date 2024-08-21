@@ -6,11 +6,13 @@
  
 ## ⚡ My main skills:
  * 🖥️ JS, Node, React
+ * ⚛️  React
  * 🌐 HTML, CSS SASS, Tailwind
- * ♨️ Scala / (Akka)
- * ☕ Java
+ * ♨️  Scala / (Akka)
+ * ☕  Java
  * 🐳 Docker
- * 💫 Go
+ * 🐿️ Go
+ * 🅰️ Angular
  * 🔧 Some backend experience with: Express, Flask, MongoDB, Neo4j
  * 📚 Worked with different Python AI libraries
  
@@ -19,7 +21,7 @@
  * 📘 Typescript
  * 🍃 Spring
  * ⬛ NextJS
- * 🅰️ Angular
+ * 🐱 NestJS
  
 ## - 💡 Things I would like to learn:
  * 🦀 Rust
