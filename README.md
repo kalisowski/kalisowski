@@ -5,7 +5,7 @@
  * 🏭 I recently worked with the MERN stack.
  
 ## ⚡ My main skills:
- * 🖥️ JS, Node
+ * 🖥️ JS/TS, Node
  * ⚛️  React
  * 🌐 HTML, CSS SASS, Tailwind
  * ♨️  Scala / (Akka)
@@ -18,7 +18,6 @@
  
 
 ## - 🌱 I’m currently learning:
- * 📘 Typescript
  * 🍃 Spring
  * ⬛ NextJS
  * 🐱 NestJS
