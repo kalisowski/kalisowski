@@ -77,7 +77,7 @@ I'm a Software Engineer 💻 with a passion for building high-quality, intuitive
 <a href="mailto:kamil.lisowski.kontakt@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/kamil-lisowski-b69190240/">
+<a href="www.linkedin.com/in/kamil-lisowskii">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
