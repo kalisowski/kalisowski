@@ -1,7 +1,7 @@
-Hi there 👋, I'm Kamil!
+## Hi there 👋, I'm Kamil!
 I'm a Software Engineer 💻 with a passion for building high-quality, intuitive web applications. I recently graduated with a Bachelor's degree in Computer Science 🎓 and have professional experience working full-stack, contributing to the entire development lifecycle from UI architecture to backend services and deployment.
 
-⚡ My Tech Stack
+### ⚡ My Tech Stack
 <table>
 <tr>
 <td align="center" width="120">
@@ -72,7 +72,7 @@ I'm a Software Engineer 💻 with a passion for building high-quality, intuitive
 </tr>
 </table>
 
-📫 How to Reach Me
+### 📫 How to Reach Me
 <p align="left">
 <a href="mailto:kamil.lisowski.kontakt@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
